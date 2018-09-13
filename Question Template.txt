@@ -1,0 +1,9 @@
+Answer (1st line)
+Question (2nd line)
+NOTE: The file should only be two lines long
+NOTE: The name of the file can be anything, but it would be best to save it as the answer
+for furture (human) use.
+
+eg.
+Tokyo
+This captial city holds the title for the most populous city.
